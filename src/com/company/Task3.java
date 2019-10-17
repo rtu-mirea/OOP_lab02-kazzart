@@ -18,7 +18,7 @@ public class Task3 {
     }
 
     void consoleInputProcessing() {
-        System.out.print("Введите время в формате \"ЧЧ:ММ\": ");
+        System.out.print("Введите  время в формате \"ЧЧ:ММ\": ");
         this.consoleInput();
     }
 
